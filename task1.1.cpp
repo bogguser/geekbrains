@@ -2,7 +2,7 @@
 #include <cstdint>
 using namespace std;
 
-/*task1*/
+//task1
 class Power {
 private:
     int m_a = 2;
